@@ -15,3 +15,9 @@ Los algoritmos se han desarrollado y validado mediante un entorno de simulación
 
 ## poner gif simulacion
 ![Alt text](https://media.giphy.com/media/l41lUJ1YoZB1lHVPG/giphy.gif)
+
+
+### Hablar estructura del codigo
+
+### como instalarlo
+### versiones ml agets, anaconda , unity etc

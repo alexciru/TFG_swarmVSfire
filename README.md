@@ -2,8 +2,8 @@
 w# Automatic program verifier (partial exploration, with compression)
 
 
-###### This project was done in the course of Data Mining in the University Politechnika Warszawa.
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logotipo_Escuela_Polit%C3%A9cnica_Superior_%28UAM%29.svg/640px-Logotipo_Escuela_Polit%C3%A9cnica_Superior_%28UAM%29.svg.png)
+###### Este proyecto fue realizado durante el trabajo de fin de grado de la Escuela Politecnica Superior de la UAM.
+![Alt text](https://www.uam.es/EPS/imagen/1242659838616/logo2.jpg)
 ___
 
 

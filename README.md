@@ -6,7 +6,7 @@ w# Automatic program verifier (partial exploration, with compression)
 ![Alt text](https://www.uam.es/EPS/imagen/1242659838616/logo2.jpg)
 ___
 
-![Alt text](/Photo/UnityTraining.png)
+![Alt text](/Photos/UnityTraining.png)
 ### Main task
 
 Este trabajo de fin de grado tiene como objetivo estudiar la viabilidad de un sistema de monitorización de incendios haciendo uso de drones. Se ha optado por el uso de una arquitectura basada en comportamientos en donde en vez de codificar el sistema global se codifican módulos más sencillos que al ser interconectados logran conductas más complejas al sistema. Además, para la codificación de estos comportamientos se han utilizado técnicas de aprendizaje por refuerzo para la obtención de funcionamientos más elaborados.

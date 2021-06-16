@@ -1,6 +1,4 @@
 # TFG_swarmVSfire
-w# Automatic program verifier (partial exploration, with compression)
-
 
 ###### Este proyecto fue realizado durante el trabajo de fin de grado de la Escuela Politecnica Superior de la UAM.
 ![Alt text](https://www.uam.es/EPS/imagen/1242659838616/logo2.jpg)

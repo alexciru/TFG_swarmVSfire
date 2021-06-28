@@ -25,7 +25,7 @@ cada comportamiento se ha entrenado en una escena difertente
 - *SistemaGlobal:* archivo donde se encuentra el sistema completo
 - *SampleScene:* escena de un terreno 3d con el sistema implantado
 
-
+En cada una de las diferentes escenas la ejecución empezará tras pulsar el botón de Play. Las simulaciones se mostrará los resultados con los modelos pre-entrenados. En caso de querer entrenar un comportamiento deberá ejecutar un comando desde una terminal externa con el comando mlagents-learn. Más información en el repositorio del proyecto y en repositorio de ML-Agents.
 
 ### Instalacion
 Descargar e instalar Unity (version recomendada: 2019.3.15f )

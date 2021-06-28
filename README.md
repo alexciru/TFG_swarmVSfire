@@ -1,8 +1,8 @@
 # TFG_swarmVSfire
 
 ###### Este proyecto fue realizado durante el trabajo de fin de grado de la Escuela Politecnica Superior de la UAM.
-<img src="https://www.uam.es/EPS/imagen/1242659838616/logo2.jpg" width="100" height="100">
-<img src="https://www.tecnigap.com/wp-content/uploads/2019/11/logo-uam.jpg" width="100" height="100">
+<img src="https://www.uam.es/EPS/imagen/1242659838616/logo2.jpg" width="450" height="200">
+<img src="https://www.tecnigap.com/wp-content/uploads/2019/11/logo-uam.jpg" width="450" height="200">
 
 ___
 

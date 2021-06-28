@@ -17,29 +17,30 @@ Los algoritmos se han desarrollado y validado mediante un entorno de simulación
 
 # Videos de la simulacion disponibles en la carpteta `Videos`
 
-#### estructura del codigo
+### Estructura del codigo
 
 cada comportamiento se ha entrenado en una escena difertente 
-- BordearFuego_Training: Entrenamiento del comportamiento Bordear Fuego
-- EsquivarObstaculo_Training : Entrenamiento comportamiento esquivar obstaculo
-- SistemaGlobal: archivo donde se encuentra el sistema completo
-- SampleScene: escena de un terreno 3d con el sistema implantado
+- *BordearFuego_Training:* Entrenamiento del comportamiento Bordear Fuego
+- *EsquivarObstaculo_Training:* Entrenamiento comportamiento esquivar obstaculo
+- *SistemaGlobal:* archivo donde se encuentra el sistema completo
+- *SampleScene:* escena de un terreno 3d con el sistema implantado
 
 
 
-#### como instalarlo
+### Instalacion
 Descargar e instalar Unity (version recomendada: 2019.3.15f )
-'https://unity3d.com/get-unity/download/archive'
+´https://unity3d.com/get-unity/download/archive´
 
 Una vez descargado e instalado Unity se crea un nuevo proyecto 3d y se importa todos los archivos del repositorio.
 Es necesario descargar las siguientes dependencias:
 
 Se recomienda las siguientes versiones:
-Paquetes Unity |	versión
-com.unity.ml-agents (C#)	| v1.3.0
-ml-agents (Python)	| v0.19.0
-ml-agents-envs (Python)	 | v0.19.0
-gym-unity (Python)	| v0.19.0
-Communicator (C#/Python) |	v1.0.0
+|Paquetes Unity |	versión|
+|---|---|
+|com.unity.ml-agents (C#)	| v1.3.0|
+|ml-agents (Python)	| v0.19.0|
+|ml-agents-envs (Python)	 | v0.19.0|
+|gym-unity (Python)	| v0.19.0|
+|Communicator (C#/Python) |	v1.0.0|
 
 

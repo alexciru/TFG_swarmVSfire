@@ -1,7 +1,9 @@
 # TFG_swarmVSfire
 
 ###### Este proyecto fue realizado durante el trabajo de fin de grado de la Escuela Politecnica Superior de la UAM.
-![Alt text](https://www.uam.es/EPS/imagen/1242659838616/logo2.jpg)
+![Logo Eps](https://www.uam.es/EPS/imagen/1242659838616/logo2.jpg)
+![Logo UAM](https://logos-marcas.com/wp-content/uploads/2020/03/UAM-Logo.png)
+
 ___
 
 ![Alt text](/Photos/UnityTraining.png)

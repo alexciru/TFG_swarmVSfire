@@ -14,8 +14,6 @@ Este trabajo de fin de grado tiene como objetivo estudiar la viabilidad de un si
 Los algoritmos se han desarrollado y validado mediante un entorno de simulación de incendios forestales realista desarrollado en el propio trabajo. Los resultados muestran cómo las aeronaves pueden realizar un seguimiento de la expansión del incendio obteniendo información con un alto grado de fiabilidad respecto al crecimiento del incendio real. Simulaciones adicionales demuestran que el planteamiento se puede escalar aumentado el número de aeronaves y la generalización del conocimiento al poder ser aplicado en diferentes siluetas de incendio.
 
 
-## poner gif simulacion
-![Alt text](https://media.giphy.com/media/l41lUJ1YoZB1lHVPG/giphy.gif)
 
 # Videos de la simulacion disponibles en la carpteta `Videos`
 

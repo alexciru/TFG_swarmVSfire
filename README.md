@@ -1,6 +1,6 @@
 # TFG_swarmVSfire
 
-###### Este proyecto fue realizado durante el trabajo de fin de grado de la Escuela Politecnica Superior de la UAM.
+###### This project was carried out during the end of degree work at the Escuela Politecnica Superior at Autonomous University of Madrid.
 
 <img src="https://www.uam.es/EPS/imagen/1242659838616/logo2.jpg" width="300" height="150"> <img src="https://www.tecnigap.com/wp-content/uploads/2019/11/logo-uam.jpg" width="300" height="150">
 
@@ -9,33 +9,34 @@ ___
 ![Alt text](/Photos/UnityTraining.png)
 ### Main task
 
-Este trabajo de fin de grado tiene como objetivo estudiar la viabilidad de un sistema de monitorización de incendios haciendo uso de drones. Se ha optado por el uso de una arquitectura basada en comportamientos en donde en vez de codificar el sistema global se codifican módulos más sencillos que al ser interconectados logran conductas más complejas al sistema. Además, para la codificación de estos comportamientos se han utilizado técnicas de aprendizaje por refuerzo para la obtención de funcionamientos más elaborados.
+The objective of this final degree project is to study the feasibility of a fire monitoring system using drones. We have opted for the use of an architecture based on behaviors where instead of coding the overall system, simpler modules are coded that when interconnected achieve more complex behaviors to the system. In addition, for the codification of these behaviors, reinforcement learning techniques have been used to obtain more elaborate behaviors.
 
-Los algoritmos se han desarrollado y validado mediante un entorno de simulación de incendios forestales realista desarrollado en el propio trabajo. Los resultados muestran cómo las aeronaves pueden realizar un seguimiento de la expansión del incendio obteniendo información con un alto grado de fiabilidad respecto al crecimiento del incendio real. Simulaciones adicionales demuestran que el planteamiento se puede escalar aumentado el número de aeronaves y la generalización del conocimiento al poder ser aplicado en diferentes siluetas de incendio.
+The algorithms have been developed and validated using a realistic forest fire simulation environment developed in-house. The results show how the aircraft can track the fire expansion obtaining information with a high degree of reliability with respect to the real fire growth. Additional simulations show that the approach can be scaled up by increasing the number of aircraft and the generalization of knowledge by being able to be applied to different fire silhouettes.
 
 
 
 # Videos de la simulacion disponibles en la carpteta `Videos`
 
-### Estructura del codigo
+### code structure
 
-cada comportamiento se ha entrenado en una escena difertente 
-- *BordearFuego_Training:* Entrenamiento del comportamiento Bordear Fuego
-- *EsquivarObstaculo_Training:* Entrenamiento comportamiento esquivar obstaculo
-- *SistemaGlobal:* archivo donde se encuentra el sistema completo
-- *SampleScene:* escena de un terreno 3d con el sistema implantado
 
-En cada una de las diferentes escenas la ejecución empezará tras pulsar el botón de Play. Las simulaciones se mostrará los resultados con los modelos pre-entrenados. En caso de querer entrenar un comportamiento deberá ejecutar un comando desde una terminal externa con el comando mlagents-learn. Más información en el repositorio del proyecto y en repositorio de ML-Agents.
+each behavior has been trained in a different scene 
+- *BordearFuego_Training:*(Fire_Edge_Training) Fire_Edge behavior training
+- *EsquivarObstaculo_Training:*(DodgeObstacle_Training) obstacle dodging behavior training
+-  *SistemaGlobal:*(GlobalSystem) file where the complete system is located
+- SampleScene:* scene of a 3d terrain with the system implemented
+
+In each of the different scenes the execution will start after pressing the Play button. The simulations will show the results with the pre-trained models. In case you want to train a behavior you will have to execute a command from an external terminal with the command mlagents-learn. More information in the project repository and in the ML-Agents repository.
 
 ### Instalacion
-Descargar e instalar Unity (version recomendada: 2019.3.15f )
+Download and install Unity (recommended version: 2019.3.15f )
 ´https://unity3d.com/get-unity/download/archive´
 
-Una vez descargado e instalado Unity se crea un nuevo proyecto 3d y se importa todos los archivos del repositorio.
-Es necesario descargar las siguientes dependencias:
+Once Unity is downloaded and installed, a new 3d project is created and all the files from the repository are imported.
+It is necessary to download the following dependencies:
 
-Se recomienda las siguientes versiones:
-|Paquetes Unity |	versión|
+The following versions are recommended:
+|Unity Packages |	version|
 |---|---|
 |com.unity.ml-agents (C#)	| v1.3.0|
 |ml-agents (Python)	| v0.19.0|

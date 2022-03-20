@@ -3,7 +3,7 @@
 ###### This project was carried out during the end of degree work at the Escuela Politecnica Superior at Autonomous University of Madrid.
 |   |   |  
 :-------------------------:|:-------------------------:
-|<img src="Photos\EPS1.jpg" width="400" height="400"> |<img src="Photos\UAM1.png" width="400" height="400">  |
+|<img src="Photos\EPS1.jpg" width="200" height="200"> |<img src="Photos\UAM1.png" width="200" height="200">  |
 
 
 

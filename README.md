@@ -15,7 +15,7 @@ The algorithms have been developed and validated using a realistic forest fire s
 
 
 
-# Videos de la simulacion disponibles en la carpteta `Videos`
+# Videos of the simulation available in the `Videos` folder.
 
 ### code structure
 
@@ -28,7 +28,7 @@ each behavior has been trained in a different scene
 
 In each of the different scenes the execution will start after pressing the Play button. The simulations will show the results with the pre-trained models. In case you want to train a behavior you will have to execute a command from an external terminal with the command mlagents-learn. More information in the project repository and in the ML-Agents repository.
 
-### Instalacion
+### Instalation
 Download and install Unity (recommended version: 2019.3.15f )
 ´https://unity3d.com/get-unity/download/archive´
 

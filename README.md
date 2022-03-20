@@ -1,8 +1,11 @@
 # TFG_swarmVSfire
 
 ###### This project was carried out during the end of degree work at the Escuela Politecnica Superior at Autonomous University of Madrid.
+|   |   |
+|---|---|
+|<img src="https://www.uam.es/EPS/imagen/1242659838616/logo2.jpg" width="300" height="150"> |<img src="https://www.tecnigap.com/wp-content/uploads/2019/11/logo-uam.jpg" width="300" height="150">  |
 
-<img src="https://www.uam.es/EPS/imagen/1242659838616/logo2.jpg" width="300" height="150"> <img src="https://www.tecnigap.com/wp-content/uploads/2019/11/logo-uam.jpg" width="300" height="150">
+
 
 ___
 
@@ -18,7 +21,6 @@ The algorithms have been developed and validated using a realistic forest fire s
 # Videos of the simulation available in the `Videos` folder.
 
 ### code structure
-
 
 each behavior has been trained in a different scene 
 - *BordearFuego_Training:*(Fire_Edge_Training) Fire_Edge behavior training
@@ -44,4 +46,13 @@ The following versions are recommended:
 |gym-unity (Python)	| v0.19.0|
 |Communicator (C#/Python) |	v1.0.0|
 
+
+
+|   |   |   |
+|---|---|---|
+|   |   |   |
+
+<img src="Photos\path1.png" width="300" height="150"> 
+<img src="Photos\path2.png" width="300" height="150"> 
+<img src="Photos\path3.png" width="300" height="150"> 
 

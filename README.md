@@ -52,4 +52,4 @@ The following versions are recommended:
 # Path trajectory over time
 <img src="Photos\path1.png" width="400" height="200">
 <img src="Photos\path2.png" width="400" height="200">
-<img src="Photos\path3.png" width="200" height="200">
+<img src="Photos\path3.png" width="400" height="200">

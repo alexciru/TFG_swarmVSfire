@@ -53,3 +53,6 @@ The following versions are recommended:
 |<img src="Photos\path1.png" width="600" height="400">|<img src="Photos\path2.png" width="600" height="400">|<img src="Photos\path3.png" width="600" height="400">|
 
 
+<img src="Photos\path1.png" width="600" height="400">
+<img src="Photos\path2.png" width="600" height="400">
+<img src="Photos\path3.png" width="600" height="400">

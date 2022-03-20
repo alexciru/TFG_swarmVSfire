@@ -1,7 +1,7 @@
 # TFG_swarmVSfire
 
 ###### This project was carried out during the end of degree work at the Escuela Politecnica Superior at Autonomous University of Madrid.
-   |   
+|   |   |  
 :-------------------------:|:-------------------------:
 |<img src="https://www.uam.es/EPS/imagen/1242659838616/logo2.jpg" width="300" height="150"> |<img src="https://www.tecnigap.com/wp-content/uploads/2019/11/logo-uam.jpg" width="300" height="150">  |
 

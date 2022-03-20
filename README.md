@@ -3,7 +3,7 @@
 ###### This project was carried out during the end of degree work at the Escuela Politecnica Superior at Autonomous University of Madrid.
 |   |   |  
 :-------------------------:|:-------------------------:
-|<img src="https://www.uam.es/EPS/imagen/1242659838616/logo2.jpg" width="300" height="150"> |<img src="https://www.tecnigap.com/wp-content/uploads/2019/11/logo-uam.jpg" width="300" height="150">  |
+|<img src="Photos\EPS.png" width="300" height="150"> |<img src="Photos\UAM.png" width="300" height="150">  |
 
 
 
@@ -48,13 +48,13 @@ The following versions are recommended:
 
 
 
-|   |   |   |
-|---|---|---|
-|   |   |   |
+|                                                     |                                                     |                            |
+|-----------------------------------------------------|-----------------------------------------------------|----------------------------|
+|<img src="Photos\path1.png" width="300" height="150">|<img src="Photos\path2.png" width="300" height="150">|<img src="Photos\path3.png" width="300" height="150">|
 
-<img src="Photos\path1.png" width="300" height="150"> 
-<img src="Photos\path2.png" width="300" height="150"> 
-<img src="Photos\path3.png" width="300" height="150"> 
+
+
+
 
 
 <img src="Photos\rewardsTraining.png" width="300" height="150"> 

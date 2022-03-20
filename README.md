@@ -50,6 +50,6 @@ The following versions are recommended:
 
 |                                                     |                                                     |                            |
 |-----------------------------------------------------|-----------------------------------------------------|----------------------------|
-|<img src="Photos\path1.png" width="500" height="220">|<img src="Photos\path2.png" width="500" height="220">|<img src="Photos\path3.png" width="500" height="220">|
+|<img src="Photos\path1.png" width="600" height="300">|<img src="Photos\path2.png" width="600" height="300">|<img src="Photos\path3.png" width="600" height="300">|
 
 

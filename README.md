@@ -50,13 +50,6 @@ The following versions are recommended:
 
 |                                                     |                                                     |                            |
 |-----------------------------------------------------|-----------------------------------------------------|----------------------------|
-|<img src="Photos\path1.png" width="300" height="150">|<img src="Photos\path2.png" width="300" height="150">|<img src="Photos\path3.png" width="300" height="150">|
+|<img src="Photos\path1.png" width="500" height="250">|<img src="Photos\path2.png" width="500" height="250">|<img src="Photos\path3.png" width="500" height="250">|
 
-
-
-
-
-
-<img src="Photos\rewardsTraining.png" width="300" height="150"> 
-<img src="Photos\similarities.png" width="300" height="150"> 
 
